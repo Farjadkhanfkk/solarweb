@@ -1,8 +1,10 @@
 "use client"; // Ensure this is a client component
 
 import React from 'react';
-import Link from 'next/link';
-import Image from 'next/image'; // For the logo/icon image
+// import Link from 'next/link';
+// import Image from 'next/image';
+//  // For the logo/icon image
+
 import Carousel from './carousal/page';
 import HappyCustomers from './happyclient';
 import OurService from './ourserivce/page';
